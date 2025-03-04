@@ -12,11 +12,6 @@ project:
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
     - file: README.md
-    - title: Organizing Preparation
-      children:
-        - file: organizers/getting-started.md
-        - file: organizers/organizing-checklist.md
-        - file: organizers/survey-template.md
     - title: Projects
       children:
         - file: projects/README.md
