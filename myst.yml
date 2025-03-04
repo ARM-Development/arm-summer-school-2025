@@ -5,10 +5,10 @@ project:
   description: Github Pages based template for hackathons
   # keywords: []
   authors:
-    - name: Instructor Name
-      orcid: XXXX-XXXX-XXXX-XXXX
-      github: username
-  github: https://github.com/hackthackathon/hackathon-template-github
+    - name: Max Grover
+      orcid: 0000-0002-0370-8974
+      github: mgrover1
+  github: https://github.com/ARM-Development/arm-summer-school-2025
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
     - file: README.md
@@ -19,7 +19,7 @@ project:
         - file: organizers/survey-template.md
     - title: Projects
       children:
-        - pattern: 'projects/project-*'
+        - file: projects/README.md
 site:
   template: book-theme
   # Modify this section with the logos of your choice
