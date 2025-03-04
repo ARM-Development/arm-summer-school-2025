@@ -1,8 +1,6 @@
-# Hackathon Template Github
+# ARM BNF Summer School 2025
 
-**2024-11-19**  **-** **2024-11-20** 
-
-Github Pages based template for hackathons
+**Monday, May 19, to Friday, May 23, 2025**
 
 
 ## Instructors and Mentors
@@ -11,12 +9,9 @@ Please list your instructors and mentors below!
 
 | Instructor | Affiliation | Links |
 | :------- | ------- |:------- |
-| Instructor Name | Lead Instructor Affiliation | [Github](https://github.com/username) |
+| Max Grover | Argonne National Laboratory | [Github](https://github.com/mgrover1) |
+| Scott Collis | Argonne National Laboratory | [Github](https://github.com/scollis) |
 
 ## Schedule
 
-## 2024-11-19
-
-| Time                | Topic                     | Presenter        |
-| :---:               |    :----:                 |    :---:         |
-| 09:00 AM - 09:30 AM | Welcome/Introduction      | Instructor Name      |
+TBD
