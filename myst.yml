@@ -12,12 +12,17 @@ project:
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
     - file: README.md
-    - title: Projects
-      children:
-        - file: projects/README.md
+    - file: projects/README.md
 site:
-  template: book-theme
-  # Modify this section with the logos of your choice
   options:
-    favicon: https://hackthackathon.github.io/images/navbar-logo.png
-    logo: https://hackthackathon.github.io/images/navbar-logo.png
+    logo: images/arm_logo.png
+    footer_logos:
+        ARM: images/arm_logo.png
+  nav:
+    - title: ARM Home
+      url: https://www.arm.gov/
+    - title: BNF Page
+      url: https://www.arm.gov/capabilities/observatories/bnf
+  actions:
+    - title: Launch Environment
+      url: https://binder.projectpythia.org/v2/gh/ARM-Development/arm-summer-school-2025/main?labpath=notebooks
