@@ -1,8 +1,8 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  title: ARM Summer School 2025
-  description: Open Science in the Forest Summer School: Connecting State-of-the-Art Models with Diverse Field Campaign Observations
+  title: ARM Open Science in the Forest Summer School
+  description: Connecting State-of-the-Art Models with Diverse Field Campaign Observations
   # keywords: []
   authors:
     - name: Max Grover
