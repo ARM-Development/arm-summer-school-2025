@@ -12,6 +12,17 @@ project:
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
     - file: README.md
+    - title: Preparation
+      children:
+        - file: preliminary/checklist_index
+          children:
+            - file: preliminary/checklist/github
+            - file: preliminary/checklist/jupyterhub
+            - file: preliminary/checklist/git
+            - file: preliminary/checklist/armdata
+        - file: preliminary/skills_refresher_index
+          children:
+            - file: preliminary/skills-refresher/swc
     - file: projects/README.md
 site:
   options:
