@@ -25,19 +25,17 @@ Please list your instructors and mentors below!
 | Time                 | Topic                                  | Presenter(s)                       |
 | :---:                |    :----:                              |    :---:                           |
 | 08:30 AM - 09:00 AM  | Intro to ARM                           | Jim Mather and Sally McFarlane     |
-| 
 | 09:00 AM - 09:30 AM  | Intro to Bankhead National Forest + Summer School      | AMF3 Science Team + Max Grover     |
-| 
 | 09:30 AM - 10:00 AM  | Coffee Break                           |                                    |
 | 10:00 AM - 10:30 AM  | Intro to BNF Science: Why Forests?            | Shawn S. |
 | 10:30 AM - 11:00 AM  | Intro to BNF Science: Deep Convection         | Brenda D. |
 | 11:00 AM - 12:00 PM  | Intro to ARM Data/Accounts      |  Michael G.         |
-| 12:00 PM - 01:00 PM  | Elevator Pitch Intro Lunch   |                                    |
+| 12:00 PM - 01:00 PM  | Elevator Pitch Intro Lunch   |  Max G.                                  |
 | 01:00 PM - 01:45 PM  | Fundamentals of Radar Meteorology |   Scott G. and Scott C.                    |
 | 01:45 PM - 02:30 PM  | Fundamentals in Aerosol Instrumentation - In Situ and Remote Sensing   |    Chongai K. and Brenda D.                   |
 | 02:30 PM - 03:00 PM  | Coffee/Tea Break                       |                                    |
 | 03:00 PM - 04:00 PM  | Tracking Data at BNF  | Sean and Sid   |
-| 04:00 PM - 05:00 PM  | Project Pitches                    | Everyone!          |
+| 04:00 PM - 05:00 PM  | Project Pitches                    |          |
 
 ### Tuesday May 20, 2025
 
