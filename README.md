@@ -67,7 +67,7 @@ Visit to BNF
 | 05:00 PM - 07:00 PM  | Return to hotel and prepare for dinner              |           |
 | 07:00 PM - ?  | Dinner in Groups              |           |
 
-### Friday February 7, 2025
+### Friday May 23, 2025
 
 | Time                 | Topic                                  | Presenter(s)                       |
 | :---:                |    :----:                              |    :---:                           |
