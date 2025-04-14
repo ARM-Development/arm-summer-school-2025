@@ -64,8 +64,6 @@ Visit to BNF
 | 01:00 PM - 02:00 PM  | Lunch          |                          |
 | 02:00 PM - 04:00 PM  | Group Work Time |  Everyone                |                        |
 | 04:00 PM - 05:00 PM  | Final Prep of Presentations | Everyone                |             |
-| 05:00 PM - 07:00 PM  | Return to hotel and prepare for dinner              |           |
-| 07:00 PM - ?  | Dinner in Groups              |           |
 
 ### Friday May 23, 2025
 
