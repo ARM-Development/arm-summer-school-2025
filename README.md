@@ -11,6 +11,22 @@ Please list your instructors and mentors below!
 | :------- | ------- |:------- |
 | Max Grover | Argonne National Laboratory | [Github](https://github.com/mgrover1) |
 | Scott Collis | Argonne National Laboratory | [Github](https://github.com/scollis) |
+| Brenda Dolan | Colorado State University |  |
+| Michael Giansiracusa | Oak Ridge National Laboratory |  |
+| Sébastien Biraud | Lawrence Berkeley National Laboratory |  |
+| Mark Spychala | Argonne National Laboratory  |  |
+| Tim Wagner | University of Wisconsin |  |
+| Bill Gustafson | Pacific Northwest National Laboratory |  |
+| Patty Campbell | Argonne National Laboratory |  |
+| Chongai Kuang | Brookhaven National Laboratory |  |
+| Joseph O'Brien | Argonne National Laboratory |  |
+| Tim Juliano  | NSF National Center for Atmospheric Research |  |
+| Sid Gupta | Argonne National Laboratory |  |
+| Sean Freeman | University of Alabama Huntsville |  |
+| Shawn Serbin | NASA |  |
+| Thijs Heus | Cleveland State University |  |
+
+
 
 ## Schedule
 
