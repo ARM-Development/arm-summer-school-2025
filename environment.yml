@@ -5,3 +5,5 @@ dependencies:
   - python=3.11
   - mystmd<1.3.21
   - cookiecutter
+  - act-atmos
+  - jupyterlab
