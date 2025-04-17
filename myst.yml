@@ -36,8 +36,8 @@ site:
   nav:
     - title: ARM Home
       url: https://www.arm.gov/
-    - title: BNF Page
-      url: https://www.arm.gov/capabilities/observatories/bnf
+    - title: BNF Field Campaign Dashboard
+      url: https://field-catalog-ui.stg.arm.gov/#/bnf/overview
   actions:
     - title: Launch Environment
       url: https://binder.projectpythia.org/v2/gh/ARM-Development/arm-summer-school-2025/main?labpath=notebooks
