@@ -23,6 +23,10 @@ project:
         - file: preliminary/skills_refresher_index
           children:
             - file: preliminary/skills-refresher/swc
+    - title: Tutorials
+      children:
+        - file: notebooks/ACT-Basics-BNF.ipynb
+        - file: notebooks/act-tower-data.ipynb
     - file: projects/README.md
 site:
   options:
