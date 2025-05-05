@@ -48,15 +48,26 @@ Please list your instructors and mentors below!
 | 10:30 AM - 11:00 AM  | Intro to BNF Science: Deep Convection         | Brenda D. |
 | 11:00 AM - 12:00 PM  | Intro to ARM Data/Accounts      |  Michael G.         |
 | 12:00 PM - 01:00 PM  | Elevator Pitch Intro Lunch   |  Max G.                                  |
-| 01:00 PM - 01:45 PM  | Fundamentals of Radar Meteorology |   Scott G. and Scott C.                    |
-| 01:45 PM - 02:30 PM  | Fundamentals in Aerosol Instrumentation - In Situ and Remote Sensing   |    Chongai K. and Brenda D.                   |
+| 01:00 PM - 01:30 PM  | Fundamentals of Radar Meteorology |   Scott G. and Scott C.                    |
+| 01:30 PM - 02:00 PM  | Intro to Deep Convection using Radar Technology | Brenda D. |
+| 02:00 PM - 02:30 PM  | Fundamentals in Aerosol Instrumentation - In Situ and Remote Sensing   |    Chongai K.                 |
 | 02:30 PM - 03:00 PM  | Coffee/Tea Break                       |                                    |
 | 03:00 PM - 04:00 PM  | Tracking Data at BNF  | Sean and Sid   |
 | 04:00 PM - 05:00 PM  | Project Pitches                    |          |
 
 ### Tuesday May 20, 2025
 
-Visit to BNF
+
+| Time                 | Location                               | Activity                      |
+| :---:                |    :----:                              |    :---:                      |
+| 08:30 AM             | Drury Inn Hotel Lobby                  | Depart for Field Site         |
+| 09:30 AM             | CSAPR2 Radar Site                      | Guided Tour                   |
+| 10:45 AM             | Main Office                            | Orientation                   |
+| 11:30 AM             | Sonde Pad                              | Sonde Launch & Lunch          |
+| 12:00 PM             | Instrument Field and S10               | Departure                     |
+| 02:00 PM             | Main Office                            | Guided Tour                   |
+| 03:00 PM             | Drury Inn Hotel                        | Arrive back at hotel          |
+
 
 ### Wednesday May 21, 2025
 
