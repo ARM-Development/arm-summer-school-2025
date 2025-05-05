@@ -23,7 +23,8 @@ Please list your instructors and mentors below!
 | Tim Juliano  | NSF National Center for Atmospheric Research |  |
 | Sid Gupta | Argonne National Laboratory |  |
 | Sean Freeman | University of Alabama Huntsville |  |
-| Shawn Serbin | NASA |  |
+| Shawn Serbin | NASA |  [Github](https://github.com/serbinsh) |
+| Andrew Feldman | NASA | [Github](https://github.com/afeld24) |
 | Thijs Heus | Cleveland State University |  |
 
 
