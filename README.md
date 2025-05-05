@@ -11,6 +11,7 @@ Please list your instructors and mentors below!
 | :------- | ------- |:------- |
 | Max Grover | Argonne National Laboratory | [Github](https://github.com/mgrover1) |
 | Scott Collis | Argonne National Laboratory | [Github](https://github.com/scollis) |
+| Scott Giangrande | Brookhaven National Laboratory | |
 | Brenda Dolan | Colorado State University |  |
 | Michael Giansiracusa | Oak Ridge National Laboratory |  |
 | Sébastien Biraud | Lawrence Berkeley National Laboratory |  |
