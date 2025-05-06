@@ -7,3 +7,6 @@ dependencies:
   - cookiecutter
   - act-atmos
   - jupyterlab
+  - arm_pyart
+  - cartopy
+  - matplotlib
