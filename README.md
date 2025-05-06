@@ -34,9 +34,9 @@ Please list your instructors and mentors below!
 
 ### Sunday May 18, 2025
 
-| Time                | Topic                  | Presenter(s)                       |
+| Time                | Location                  | Activity                       |
 | :---:               |    :----:              |    :---:                           |
-| 06:00 PM - 07:00 PM | Meet and Go to Dinner as a Group   | Everyone!                          |
+| 06:00 PM  | Drury Inn Lobby   | Go to [Stovehouse](https://maps.app.goo.gl/bscpCVfqGQwoWQzG7) for Dinner                          |
 
 ### Monday May 19, 2025
 
