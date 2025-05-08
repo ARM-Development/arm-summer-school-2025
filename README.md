@@ -51,7 +51,7 @@ Please list your instructors and mentors below!
 | 12:00 PM - 01:00 PM  | Elevator Pitch Intro Lunch   |  Max G.                                  |
 | 01:00 PM - 01:30 PM  | Fundamentals of Radar Meteorology |   Scott G. and Scott C.                    |
 | 01:30 PM - 02:00 PM  | Fundamentals of Sensing Columns Using Remote Sensing | Tim W. |
-| 02:00 PM - 02:30 PM  | Fundamentals in Aerosol Instrumentation - In Situ and Remote Sensing   |    Chongai K.                 |
+| 02:00 PM - 02:30 PM  | Fundamentals in Aerosol Instrumentation - In Situ    |    Chongai K.                 |
 | 02:30 PM - 03:00 PM  | Coffee/Tea Break                       |                                    |
 | 03:00 PM - 04:00 PM  | Tracking Data at BNF  | Sean and Sid   |
 | 04:00 PM - 05:00 PM  | Project Pitches                    |          |
