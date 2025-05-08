@@ -80,7 +80,7 @@ Please list your instructors and mentors below!
 | 10:00 AM - 10:30 AM  | Coffee Break                           |                                    |
 | 10:30 AM - 11:15 AM  | Introduction to ACT      | Joe O'Brien        |
 | 11:15 AM - 12:00 PM  | Introduction to Py-ART   | Joe O'Brien                     |
-| 12:00 PM - 01:00 PM  | Simulation Data: LASSO Lunch and Learn          | Bill G.                         |
+| 12:00 PM - 01:00 PM  | Lunch and Learn: Introduction to AI/ML with ARM         |   Sid Gupta                 |
 | 01:00 PM - 05:00 PM  | Group Work!    |                                    |                                  |
 
 ### Thursday May 22, 2025
@@ -90,7 +90,7 @@ Please list your instructors and mentors below!
 | 08:30 AM - 09:30 AM  | Office Hours - Any Issues?        | Max Grover + Scott Collis                         |
 | 09:30 AM - 10:00 AM  | Coffee/Tea Break                  |                                    |
 | 10:00 AM - 01:00 PM  | Group Project Work Time     | Everyone        |
-| 01:00 PM - 02:00 PM  | Lunch          |                          |
+| 01:00 PM - 02:00 PM  | Lunch and Learn: Simulation Data with LASSO     |     Bill G.                     |
 | 02:00 PM - 04:00 PM  | Group Work Time |  Everyone                |                        |
 | 04:00 PM - 05:00 PM  | Final Prep of Presentations | Everyone                |             |
 
