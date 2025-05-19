@@ -15,3 +15,4 @@ dependencies:
   - tensorflow>=2.6
   - xradar
   - tensorflow-probability>=0.24
+  - wrf-python
