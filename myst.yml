@@ -29,6 +29,7 @@ project:
         - file: notebooks/act/ACT-Basics-BNF.ipynb
         - file: notebooks/act/act-tower-data.ipynb
         - file: notebooks/pyart/pyart-basics.ipynb
+        - file: notebooks/pyart/RadarInvestigation.ipynb
     - file: projects/README.md
 site:
   options:
