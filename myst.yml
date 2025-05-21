@@ -8,6 +8,23 @@ project:
     - name: Max Grover
       orcid: 0000-0002-0370-8974
       github: mgrover1
+    - name: Scott Collis
+      orcid: 0000-0002-2303-687X
+    - name: Scott Giangrande
+    - name: Brenda Dolan 
+    - name: Michael Giansiracusa
+    - name: Sébastien Biraud
+    - name: Mark Spychala
+    - name: Tim Wagner
+    - name: Bill Gustafson
+    - name: Patty Campbell
+    - name: Chongai Kuang
+    - name: Joseph O'Brien
+      orcid: 0000-0003-4655-6912
+    - name: Tim Juliano
+    - name: Sid Gupta
+    - name: Sean Freeman
+    - name: Thijs Heus
   github: https://github.com/ARM-Development/arm-summer-school-2025
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
@@ -30,6 +47,7 @@ project:
         - file: notebooks/act/act-tower-data.ipynb
         - file: notebooks/pyart/pyart-basics.ipynb
         - file: notebooks/pyart/RadarInvestigation.ipynb
+        - file: notebooks/wrf/wrf_bnf_tutorial.ipynb
     - file: projects/README.md
 site:
   options:
@@ -40,7 +58,7 @@ site:
     - title: ARM Home
       url: https://www.arm.gov/
     - title: BNF Field Campaign Dashboard
-      url: https://field-catalog-ui.stg.arm.gov/#/bnf/overview
+      url: https://adc.arm.gov/afcd/#/bnf
   actions:
     - title: Launch Environment
       url: https://binder.projectpythia.org/v2/gh/ARM-Development/arm-summer-school-2025/main?labpath=notebooks
