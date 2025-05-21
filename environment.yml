@@ -16,3 +16,4 @@ dependencies:
   - xradar
   - tensorflow-probability>=0.24
   - wrf-python
+  - tobac
