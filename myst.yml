@@ -47,6 +47,7 @@ project:
         - file: notebooks/act/act-tower-data.ipynb
         - file: notebooks/pyart/pyart-basics.ipynb
         - file: notebooks/pyart/RadarInvestigation.ipynb
+        - file: notebooks/pyart/GateFilters.ipynb
         - file: notebooks/wrf/wrf_bnf_tutorial.ipynb
     - file: projects/README.md
 site:
